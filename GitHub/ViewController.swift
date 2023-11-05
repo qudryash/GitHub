@@ -11,7 +11,7 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        print ("Первый код")
+        print ("Главная ветка -> Ветка 1")
     }
 
 
